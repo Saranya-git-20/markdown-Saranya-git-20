@@ -3,7 +3,7 @@ import MarkdownEditor from "./MarkdownEditor";
 function App() {
   return (
     <div id="main">
-      <h1 className="title">📝 Markdown Editor</h1>
+      <h1 className="title">Markdown Editor</h1>
       <MarkdownEditor />
     </div>
   );
